@@ -25,7 +25,7 @@ class _MusicAppState extends State<MusicApp> {
   // Music List
   // you will find the code of this tutorial i the link of the description
   // if you want to get music url go to the website below in the desc
-  // https://mixkit.co/free-stock-music/  fdsfsfs
+  // https://mixkit.co/free-stock-music/
   List musicList = [
     {
       "title": "Tech House vibes",
